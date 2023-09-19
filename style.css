@@ -1,0 +1,57 @@
+body{
+    padding-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.head-text {
+    text-align: center;
+}
+.box-container{
+    margin: auto;
+    width: 400px;
+    height: 250px;
+    background-color: rgb(255 228 180);
+}
+
+.input-container {
+    margin: auto;
+    height: 150px;
+    display: flex;
+}
+
+.height-area {
+    margin: auto;
+    text-align: center;
+}
+
+.weight-area {
+    margin: auto;
+    text-align: center;
+}
+
+
+.bmi-area {
+    text-align: center;
+}
+
+.text-style{
+    margin: 10px 10px;
+}
+
+.box-style{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.input-box {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0px;
+    width: 55px;
+}
+
+.dot {
+    font-size: 30px;
+    color: black;
+}
+
